@@ -1,6 +1,6 @@
 # IWE
 
-Official templete for paper: 
+Official implementation for paper: 
 
 **On the Weaknesses of Backdoor-based Model Watermarking: An Information-theoretic Prospective** (under review)
 
